@@ -4,6 +4,8 @@
 To understand the Bra Usage Trends in India.
 
 # Size Survey Report
+Bra Size Dataset with varied age group, financial, social and, martial status.
+
 | ID | Size | Brands | Age | Location | Married? |
 |----|------|--------|-----|----------|----------|
 | BRA001 | 38F | Trylo | 26 | C-Tamil Nadu | No |
