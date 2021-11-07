@@ -4,7 +4,7 @@
 To understand the Bra Usage Trends in India.
 
 # Size Survey Report
-Bra Size Dataset with varied age group, financial, social and, martial status.
+Bra Size Dataset with varied age group, financial, social and, marital status.
 
 | ID | Size | Brands | Age | Location | Married? |
 |----|------|--------|-----|----------|----------|
@@ -35,13 +35,13 @@ Bra Size Dataset with varied age group, financial, social and, martial status.
 | BRA025 | 38B/36B | Daisy Dee, Jockey, Enamour | | Tamil Nadu | Yes |
 | BRA026 | 36D | Intimacy | - | Tamil Nadu | Yes |
 | BRA027 | 32A | Enamour, Jockey, Zivame | - | - | No |
-| BRA028 |  | | | | |
-| BRA029 |  | | | | |
-| BRA030 |  | | | | |
-| BRA031 |  | | | | |
-| BRA032 |  | | | | |
-| BRA033 |  | | | | |
-| BRA034 |  | | | | |
+| BRA028 | 34B | Newy | 27 | Karnataka | No |
+| BRA029 | 34B | Marks & Spencer, Zivame | 31 | Ch-Tamil Nadu | Yes |
+| BRA030 | 34C | Marks & Spencer, Victoria Secret | 36 | H-Telangana | Yes |
+| BRA031 | 32D | Enamour, Zivame, Jockey | 25 | M-Maharashtra | No |
+| BRA032 | 32B | Jockey | 28 | Ch-Tamil Nadu | No |
+| BRA033 | 40C | Prithvi | 28 | Tu-Tamil Nadu | Yes |
+| BRA034 | 38B | Prithvi | 27 | T-Tamil Nadu | Yes |
 | BRA035 |  | | | | |
 | BRA036 |  | | | | |
 | BRA037 |  | | | | |
@@ -86,6 +86,25 @@ Bra Size Dataset with varied age group, financial, social and, martial status.
 | BRA076 |  | | | | |
 | BRA077 |  | | | | |
 | BRA078 |  | | | | |
+| BRA079 |  | | | | |
+| BRA080 |  | | | | |
+| BRA081 |  | | | | |
+| BRA082 |  | | | | |
+| BRA083 |  | | | | |
+| BRA084 |  | | | | |
+| BRA085 |  | | | | |
+| BRA086 |  | | | | |
+| BRA087 |  | | | | |
+| BRA088 |  | | | | |
+| BRA089 |  | | | | |
+| BRA090 |  | | | | |
+| BRA091 |  | | | | |
+| BRA092 |  | | | | |
+| BRA093 |  | | | | |
+| BRA094 |  | | | | |
 
 # Credits
-To many unnammed Volunteers.
+Many Volunteers.
+
+# Last Updated
+07-Nov-2021
