@@ -48,11 +48,11 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA038 | 32B | Jockey, Enamor, Intimacy | 23 | Tamil Nadu | Yes |
 | BRA039 | 36B | Amante, Clovia, Prithvi | 31 | Ch-Tamil Nadu | Yes |
 | BRA040 | 38D | Marks & Spencer, HunkeMoller, La Senza | 31 | M-Maharashtra | - |
-| BRA041 |  | | | | |
-| BRA042 |  | | | | |
-| BRA043 |  | | | | |
-| BRA044 |  | | | | |
-| BRA045 |  | | | | |
+| BRA041 | 32C | Nadiu Hall, Angel Form | 29 | Er-Tamil Nadu | Yes |
+| BRA042 | 36A | Missy, Enamour | 36 | Karnataka | Yes |
+| BRA043 | 34 | V-Star, Brida | 26 | Er-Kerala | No |
+| BRA044 | 34D | Trylo | 32 | Kerala | No |
+| BRA045 | 34B | Jockey, Enamour, Local | 42 | L-Uttar Pradhesh | No |
 | BRA046 |  | | | | |
 | BRA047 |  | | | | |
 | BRA048 |  | | | | |
@@ -113,4 +113,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers.
 
 # Last Updated
-08-Nov-2021
+09-Nov-2021
