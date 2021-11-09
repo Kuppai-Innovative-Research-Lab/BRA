@@ -42,12 +42,12 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA032 | 32B | Jockey | 28 | Ch-Tamil Nadu | No |
 | BRA033 | 40C | Prithvi | 28 | Tu-Tamil Nadu | Yes |
 | BRA034 | 38B | Prithvi | 27 | T-Tamil Nadu | Yes |
-| BRA035 |  | | | | |
-| BRA036 |  | | | | |
-| BRA037 |  | | | | |
-| BRA038 |  | | | | |
-| BRA039 |  | | | | |
-| BRA040 |  | | | | |
+| BRA035 | 36E | Zivame, Triumph | 27 | Tamil Nadu | Yes |
+| BRA036 | 30A | Jockey | - | M-Maharashtra | Yes |
+| BRA037 | 34C | Marks & Spencer, Zivame | 31 | Ch-Tamil Nadu | Yes |
+| BRA038 | 32B | Jockey, Enamor, Intimacy | 23 | Tamil Nadu | Yes |
+| BRA039 | 36B | Amante, Clovia, Prithvi | 31 | Ch-Tamil Nadu | Yes |
+| BRA040 | 38D | Marks & Spencer, HunkeMoller, La Senza | 31 | M-Maharashtra | - |
 | BRA041 |  | | | | |
 | BRA042 |  | | | | |
 | BRA043 |  | | | | |
@@ -102,9 +102,15 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA092 |  | | | | |
 | BRA093 |  | | | | |
 | BRA094 |  | | | | |
+| BRA095 |  | | | | |
+| BRA096 |  | | | | |
+| BRA097 |  | | | | |
+| BRA098 |  | | | | |
+| BRA099 |  | | | | |
+| BRA0100 |  | | | | |
 
 # Credits
 Many Volunteers.
 
 # Last Updated
-07-Nov-2021
+08-Nov-2021
