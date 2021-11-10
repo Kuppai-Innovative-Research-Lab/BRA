@@ -1,4 +1,4 @@
-# Indian Bra Usage Trends  
+# Bra Research Academy - Indian Bra Usage Trends Survey
 
 # Aim
 To understand the Bra Usage Trends in India.
@@ -7,7 +7,7 @@ To understand the Bra Usage Trends in India.
 Bra Size Dataset with varied age group, financial, social and, marital status.
 
 | ID | Size | Brands | Age | Location | Married? |
-|----|------|--------|-----|----------|----------|
+|:----:|:------:|--------|:-----:|:----------:|:----------:|
 | BRA001 | 38F | [Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | C-TN | Y |
 | BRA002 | 38D | [Stitched](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | C-TN | Y |
 | BRA003 | 34D | [Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | C-TN | Y |
@@ -62,10 +62,10 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA052 | 36B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | Ch-TN | Y |
 | BRA053 | 36C | [Triumph, Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | H-TG | Y |
 | BRA054 | 34B | [Tailor Circus, Jockey, Triumph, Calvin Klein, H&M](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | G | Y |
-| BRA055 |  | | | | |
-| BRA056 |  | | | | |
-| BRA057 |  | | | | |
-| BRA058 |  | | | | |
+| BRA055 | 36A | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | Er-TN | Y |
+| BRA056 | 38E | [Trylo, Triumph, Marks & Spencer](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | M-TN | N |
+| BRA057 | 36B | [Jockey, Trylo, H&M, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | Ch-TN | Y |
+| BRA058 | 34B | [H&M, Clovia, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | M-MH | Y |
 | BRA059 |  | | | | |
 | BRA060 |  | | | | |
 | BRA061 |  | | | | |
@@ -107,7 +107,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA097 |  | | | | |
 | BRA098 |  | | | | |
 | BRA099 |  | | | | |
-| BRA0100 |  | | | | |
+| BRA100 |  | | | | |
 
 # Credits
 Many Volunteers.
