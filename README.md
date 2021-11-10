@@ -55,13 +55,13 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA045 | 34B | [Jockey, Enamor, Local](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 42 | L-UP | N |
 | BRA046 | 36B | [Rajni, Naidu Hall, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | Ch-TN | Y |
 | BRA047 | 34C | [Amante, Enamor, Lovable, Triumph, Jockey, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | C-TN | N |
-| BRA048 |  | | | | |
-| BRA049 |  | | | | |
-| BRA050 |  | | | | |
-| BRA051 |  | | | | |
-| BRA052 |  | | | | |
-| BRA053 |  | | | | |
-| BRA054 |  | | | | |
+| BRA048 | 38D | [Marks & Spencer,Intimacy, Triumph, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 23 | K-TN | Y |
+| BRA049 | 34B | [Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | C-TN | Y |
+| BRA050 | 34DD | [Enamor, Riza, Amante](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | M-MH | Y |
+| BRA051 | 34B | [Triumph, Enamor, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | Tu-TN | Y |
+| BRA052 | 36B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | Ch-TN | Y |
+| BRA053 | 36C | [Triumph, Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | H-TG | Y |
+| BRA054 | 34B | [Tailor Circus, Jockey, Triumph, Calvin Klein, H&M](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | G | Y |
 | BRA055 |  | | | | |
 | BRA056 |  | | | | |
 | BRA057 |  | | | | |
@@ -113,4 +113,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers.
 
 # Last Updated
-09-Nov-2021
+10-Nov-2021
