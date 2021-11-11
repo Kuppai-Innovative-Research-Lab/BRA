@@ -66,11 +66,11 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA056 | 38E | [Trylo, Triumph, Marks & Spencer](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | M-TN | N |
 | BRA057 | 36B | [Jockey, Trylo, H&M, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | Ch-TN | Y |
 | BRA058 | 34B | [H&M, Clovia, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | M-MH | Y |
-| BRA059 |  | | | | |
-| BRA060 |  | | | | |
-| BRA061 |  | | | | |
-| BRA062 |  | | | | |
-| BRA063 |  | | | | |
+| BRA059 | 34B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | Ch-TN | Y |
+| BRA060 | 32B | [Jockey, Naidu Hall](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | B-KA | Y |
+| BRA061 | 32C | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | H-TG | N |
+| BRA062 | 36D | [Amante, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | Ch-TN | N |
+| BRA063 | 32B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 21 | Ch-TN | N |
 | BRA064 |  | | | | |
 | BRA065 |  | | | | |
 | BRA066 |  | | | | |
@@ -113,4 +113,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers.
 
 # Last Updated
-10-Nov-2021
+11-Nov-2021
