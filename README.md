@@ -71,10 +71,10 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA061 | 32C | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | H-TG | N |
 | BRA062 | 36D | [Amante, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | Ch-TN | N |
 | BRA063 | 32B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 21 | Ch-TN | N |
-| BRA064 |  | | | | |
-| BRA065 |  | | | | |
-| BRA066 |  | | | | |
-| BRA067 |  | | | | |
+| BRA064 | 38A | [Enamor, Extralife](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | T-MH | Y |
+| BRA065 | 38C | [Jockey, Triumph, Enamor, Kalenji](https://kuppai-innovative-research-lab.github.io/BRA/Brands)  | 33 | C-KL | Y |
+| BRA066 | 34B | [Shyaway, Sonari](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 25 | Ch-TN | Y |
+| BRA067 | 34  | [Jockey, H&M, Marks & Spencer](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | P-MH | Y |
 | BRA068 |  | | | | |
 | BRA069 |  | | | | |
 | BRA070 |  | | | | |
@@ -108,6 +108,14 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA098 |  | | | | |
 | BRA099 |  | | | | |
 | BRA100 |  | | | | |
+| BRA101 |  | | | | |
+| BRA102 |  | | | | |
+| BRA103 |  | | | | |
+| BRA104 |  | | | | |
+| BRA105 |  | | | | |
+| BRA106 |  | | | | |
+| BRA107 |  | | | | |
+| BRA108 |  | | | | |
 
 # Credits
 Many Volunteers.
