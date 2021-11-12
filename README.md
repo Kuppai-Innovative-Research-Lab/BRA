@@ -21,7 +21,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA011 | 32C | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | C-TN | N |
 | BRA012 | 40C | [Tailor Circus, Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | C-TN | Y |
 | BRA013 | 36D | [Sulekha](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | K-WB| N |
-| BRA014 | 34D | [Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | P- KL | N |
+| BRA014 | 34B | [Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | Er-TN | Y |
 | BRA015 | 34B | [Jockey, Cheeky Cheats](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 25 | KL | N |
 | BRA016 | 32C | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | Ch-TN | N |
 | BRA017 | 32C | [Jockey, Two Dots, Amante](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | P-KL | Y |
@@ -79,13 +79,13 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA069 | 32B | [Pretty Secrets, Clovia, Shyaway](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | MH | N |
 | BRA070 | 32B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | AP | N |
 | BRA071 | 32B | [Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | KL | N |
-| BRA072 |  | | | | |
-| BRA073 |  | | | | |
-| BRA074 |  | | | | |
-| BRA075 |  | | | | |
-| BRA076 |  | | | | |
-| BRA077 |  | | | | |
-| BRA078 |  | | | | |
+| BRA072 | 34B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | C-TN | Y |
+| BRA073 | 34C | [Jockey, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands)| -  | P | Y |
+| BRA074 | 38C | [Naidu Hall, Sonari](https://kuppai-innovative-research-lab.github.io/BRA/Brands)|  | Cb-TN | Y |
+| BRA075 | 34B | [Intimacy, Sonari, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | C-TN | Y |
+| BRA076 | 30B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | C-TN | N |
+| BRA077 | 34DD | [Wacoal](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | C-TN | N |
+| BRA078 | 34B | [Wunderlove, Triumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 42 | P-MH | Y |
 | BRA079 |  | | | | |
 | BRA080 |  | | | | |
 | BRA081 |  | | | | |
@@ -118,7 +118,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA108 |  | | | | |
 
 # Credits
-Many Volunteers.
+Many Volunteers across India.
 
 # Last Updated
-11-Nov-2021
+12-Nov-2021
