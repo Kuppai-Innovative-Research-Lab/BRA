@@ -13,7 +13,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA003 | 34D | [Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | C-TN | Y |
 | BRA004 | 34D | [Jockey, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | T-TN | Y |
 | BRA005 | 34B | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | Ch-TN | Y |
-| BRA006 | 36B | [Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | - | Y |
+| BRA006 | 36B | [Jockey, Trylo, H&M, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | Ch-TN | Y |
 | BRA007 | 34D | [Enamor, Triumph, Victoria Secret](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | TG | N |
 | BRA008 | 34D | [No Branded](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | C-TN | N |
 | BRA009 | 36B |  | 28 | C-TN | N |
@@ -64,7 +64,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA054 | 34B | [Tailor Circus, Jockey, Triumph, Calvin Klein, H&M](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | G | Y |
 | BRA055 | 36A | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | Er-TN | Y |
 | BRA056 | 38E | [Trylo, Triumph, Marks & Spencer](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | M-TN | N |
-| BRA057 | 36B | [Jockey, Trylo, H&M, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | Ch-TN | Y |
+| BRA057 | 38D | [Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 21 | C-TN | N |
 | BRA058 | 34B | [H&M, Clovia, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | M-MH | Y |
 | BRA059 | 34B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | Ch-TN | Y |
 | BRA060 | 32B | [Jockey, Naidu Hall](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | B-KA | Y |
@@ -75,10 +75,10 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA065 | 38C | [Jockey, Triumph, Enamor, Kalenji](https://kuppai-innovative-research-lab.github.io/BRA/Brands)  | 33 | C-KL | Y |
 | BRA066 | 34B | [Shyaway, Sonari](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 25 | Ch-TN | Y |
 | BRA067 | 34  | [Jockey, H&M, Marks & Spencer](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | P-MH | Y |
-| BRA068 |  | | | | |
-| BRA069 |  | | | | |
-| BRA070 |  | | | | |
-| BRA071 |  | | | | |
+| BRA068 | 34C | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | TN | Y |
+| BRA069 | 32B | [Pretty Secrets, Clovia, Shyaway](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | MH | N |
+| BRA070 | 32B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | AP | N |
+| BRA071 | 32B | [Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | KL | N |
 | BRA072 |  | | | | |
 | BRA073 |  | | | | |
 | BRA074 |  | | | | |
