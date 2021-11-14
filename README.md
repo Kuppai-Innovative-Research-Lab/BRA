@@ -86,10 +86,10 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA076 | 30B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | C-TN | N |
 | BRA077 | 34DD | [Wacoal](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | C-TN | N |
 | BRA078 | 34B | [Wunderlove, Triumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 42 | P-MH | Y |
-| BRA079 |  | | | | |
-| BRA080 |  | | | | |
-| BRA081 |  | | | | |
-| BRA082 |  | | | | |
+| BRA079 | 34B | [Enamor, Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | M-MH | Y |
+| BRA080 | 36A | [Trylo, My Bra](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | C-TN | Y |
+| BRA081 | 34B | [Zivame, Clovia, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | P | N |
+| BRA082 | 32B | [Laavian](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | C-TN | N |
 | BRA083 |  | | | | |
 | BRA084 |  | | | | |
 | BRA085 |  | | | | |
