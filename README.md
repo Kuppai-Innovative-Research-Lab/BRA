@@ -90,11 +90,11 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA080 | 36A | [Trylo, My Bra](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | C-TN | Y |
 | BRA081 | 34B | [Zivame, Clovia, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | P | N |
 | BRA082 | 32B | [Laavian](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | C-TN | N |
-| BRA083 |  | | | | |
-| BRA084 |  | | | | |
-| BRA085 |  | | | | |
-| BRA086 |  | | | | |
-| BRA087 |  | | | | |
+| BRA083 | 36B | [Local Brand, Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | T-TN | Y |
+| BRA084 | 36D | [Vanheusen, Sonari](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | Ch-TN | Y |
+| BRA085 | 38B | [Wunderlove, Victoria Secret](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | B-KA | N |
+| BRA086 | 38D | [Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | H-TN | Y |
+| BRA087 | 36C | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | N-TN | Y |
 | BRA088 |  | | | | |
 | BRA089 |  | | | | |
 | BRA090 |  | | | | |
@@ -121,4 +121,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 # Last Updated
-12-Nov-2021
+16-Nov-2021
