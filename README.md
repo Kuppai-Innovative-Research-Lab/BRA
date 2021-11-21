@@ -95,8 +95,8 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA085 | 38B | [Wunderlove, Victoria Secret](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | B-KA | N |
 | BRA086 | 38D | [Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | H-TN | Y |
 | BRA087 | 36C | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | N-TN | Y |
-| BRA088 |  | | | | |
-| BRA089 |  | | | | |
+| BRA088 | 34B | [Jockey, Daisy Dee, Tailor and Circus](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | TN | Y |
+| BRA089 | 34B | [Jockey, Enamor, Tirumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | L-UP | Y |
 | BRA090 |  | | | | |
 | BRA091 |  | | | | |
 | BRA092 |  | | | | |
@@ -121,4 +121,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 # Last Updated
-16-Nov-2021
+21-Nov-2021
