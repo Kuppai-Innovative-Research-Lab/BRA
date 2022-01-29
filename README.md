@@ -99,7 +99,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA089 | 34B | [Jockey, Enamor, Tirumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | L-UP | Y |
 | BRA090 | 36D | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | E-TN | N |
 | BRA091 | 38D | [Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | E-TN | N |
-| BRA092 |  | | | | |
+| BRA092 | 36D | [[Jockey, Zivame, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | H-TG | N |
 | BRA093 |  | | | | |
 | BRA094 |  | | | | |
 | BRA095 |  | | | | |
@@ -133,4 +133,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 # Last Updated
-25-Jan-2022
+29-Jan-2022
