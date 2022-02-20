@@ -32,7 +32,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA022 | 30B | [Juliet](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 23 | Ch-TN | N | 
 | BRA023 | 34D | [Trylo, Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | C-TN | Y |
 | BRA024 | 34B | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | TG | N |
-| BRA025 | 38B/36B | [Daisy Dee, Jockey, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | TN | Y |
+| BRA025 | 38B | [Daisy Dee, Jockey, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | TN | Y |
 | BRA026 | 36D | [Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | TN | Y |
 | BRA027 | 32A | [Enamor, Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | - | N |
 | BRA028 | 34B | [Newy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | KA | N |
@@ -99,8 +99,8 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA089 | 34B | [Jockey, Enamor, Tirumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | L-UP | Y |
 | BRA090 | 36D | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | E-TN | N |
 | BRA091 | 38D | [Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | E-TN | N |
-| BRA092 | 36D | [[Jockey, Zivame, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | H-TG | N |
-| BRA093 |  | | | | |
+| BRA092 | 36D | [Jockey, Zivame, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | H-TG | N |
+| BRA093 | 34C | [Jockey, Putchi, Urbanyoga](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | T-TN | Y |
 | BRA094 |  | | | | |
 | BRA095 |  | | | | |
 | BRA096 |  | | | | |
@@ -133,4 +133,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 # Last Updated
-29-Jan-2022
+20-Feb-2022
