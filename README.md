@@ -1,4 +1,4 @@
-# Bra Research Academy - Indian Bra Usage Trends Survey
+# Bra Research Academy - Indian Bra Usage Trends Survey ![](https://img.shields.io/badge/Project-CupCoin-ff69b4.svg) ![](https://img.shields.io/badge/Work-In_Progress-orange)
 
 # Aim
 To understand the Bra Usage Trends in India.
@@ -101,8 +101,8 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA091 | 38D | [Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | E-TN | N |
 | BRA092 | 36D | [Jockey, Zivame, Daisy Dee](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | H-TG | N |
 | BRA093 | 34C | [Jockey, Putchi, Urbanyoga](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | T-TN | Y |
-| BRA094 |  | | | | |
-| BRA095 |  | | | | |
+| BRA094 | 36B | [Nykaa](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | C-TN | Y |
+| BRA095 | 36C | [Naidu Hall, Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | C-TN | Y |
 | BRA096 |  | | | | |
 | BRA097 |  | | | | |
 | BRA098 |  | | | | |
@@ -133,4 +133,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 # Last Updated
-20-Feb-2022
+17-Apr-2022
