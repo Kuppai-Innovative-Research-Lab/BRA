@@ -103,8 +103,8 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA093 | 34C | [Jockey, Putchi, Urbanyoga](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | T-TN | Y |
 | BRA094 | 36B | [Nykaa](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | C-TN | Y |
 | BRA095 | 36C | [Naidu Hall, Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | C-TN | Y |
-| BRA096 |  | | | | |
-| BRA097 |  | | | | |
+| BRA096 | 36B | [Enamor, Jockey, Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 42 | M-MH | Y |
+| BRA097 | 38D | [Marks & Spencer, Triumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | Ch-TN | Y |
 | BRA098 |  | | | | |
 | BRA099 |  | | | | |
 | BRA100 |  | | | | |
@@ -133,4 +133,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 # Last Updated
-17-Apr-2022
+28-Apr-2022
