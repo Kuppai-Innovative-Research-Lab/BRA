@@ -1,9 +1,11 @@
-# Bra Research Academy - Indian Bra Usage Trends Survey ![](https://img.shields.io/badge/Project-CupCoin-ff69b4.svg) ![](https://img.shields.io/badge/Work-In_Progress-orange)
+# Bra Research Academy - Indian Bra Usage Trends Survey  ![](https://img.shields.io/badge/Project-BRA-ff69b4.svg) ![](https://img.shields.io/badge/Project-CupCoin-ff69b4.svg) ![](https://img.shields.io/badge/Work-In_Progress-orange)
 
 # Aim
 To understand the Bra Usage Trends in India.
 
 # Size Survey Report
+![](https://img.shields.io/badge/Age-23_to_42-orange)
+![](https://img.shields.io/badge/Size-32_to_40-darkblue) ![](https://img.shields.io/badge/Size-B_to_HH-blue)  <br/>
 Bra Size Dataset with varied age group, financial, social and, marital status.
 
 | ID | Size | Brands | Age | Location | Married? |
@@ -105,10 +107,10 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA095 | 36C | [Naidu Hall, Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | C-TN | Y |
 | BRA096 | 36B | [Enamor, Jockey, Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 42 | M-MH | Y |
 | BRA097 | 38D | [Marks & Spencer, Triumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | Ch-TN | Y |
-| BRA098 |  | | | | |
-| BRA099 |  | | | | |
-| BRA100 |  | | | | |
-| BRA101 |  | | | | |
+| BRA098 | 32B | [Enamor, Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | R-Ch | Y |
+| BRA099 | 38B | [Zivame, Jockey, Intimate](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 25 | Ch-TN | Y |
+| BRA100 | 38B | [Jockey, Tailor and Circus](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | B-KA | Y |
+| BRA101 | 36B | [Triumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | - | Y |
 | BRA102 |  | | | | |
 | BRA103 |  | | | | |
 | BRA104 |  | | | | |
@@ -133,4 +135,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 # Last Updated
-28-Apr-2022
+01-May-2022
