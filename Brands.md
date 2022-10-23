@@ -40,3 +40,5 @@
 | Hans | Hanes |
 | Loc | Local | 
 | SX | Stitched | 
+| EA | Emprorio Armani |
+| UY | Urbanyoga |
