@@ -111,11 +111,11 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA099 | 38B | [Zivame, Jockey, Intimate](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 25 | Ch-TN | Y |
 | BRA100 | 38B | [Jockey, Tailor and Circus](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | B-KA | Y |
 | BRA101 | 36B | [Triumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | - | - | Y |
-| BRA102 |  | | | | |
-| BRA103 |  | | | | |
-| BRA104 |  | | | | |
-| BRA105 |  | | | | |
-| BRA106 |  | | | | |
+| BRA102 | 32C | [Zivame  and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 25 | D | N |
+| BRA103 | 32C | [Wunderluv and Marks & Spencer](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | T-TN | Y |
+| BRA104 | 36A | [Calvin Klein, H&M and Emprorio Armani](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | K-WB | Y |
+| BRA105 | 38C | [Jockey and Naidu Hall](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | Ch-TN | Y |
+| BRA106 | 34D | [Jockey and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | B-MP | Y |
 | BRA107 |  | | | | |
 | BRA108 |  | | | | |
 | BRA109 |  | | | | |
@@ -135,4 +135,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 # Last Updated
-01-May-2022
+23-Oct-2022
