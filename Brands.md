@@ -42,3 +42,12 @@
 | SX | Stitched | 
 | EA | Emprorio Armani |
 | UY | Urbanyoga |
+| Plea | Pleasant |
+| Ali | Alina |
+| Sus | Susie |
+| Lab | La brary |
+| Zu | Zudio |
+
+
+
+
