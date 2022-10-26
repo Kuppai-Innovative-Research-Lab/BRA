@@ -117,22 +117,46 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA105 | 38C | [Jockey and Naidu Hall](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | Ch-TN | Y |
 | BRA106 | 34D | [Jockey and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | B-MP | Y |
 | BRA107 |  | | | | |
-| BRA108 |  | | | | |
-| BRA109 |  | | | | |
-| BRA110 |  | | | | |
-| BRA111 |  | | | | |
-| BRA112 |  | | | | |
-| BRA113 |  | | | | |
-| BRA114 |  | | | | |
-| BRA115 |  | | | | |
-| BRA116 |  | | | | |
-| BRA117 |  | | | | |
-| BRA118 |  | | | | |
-| BRA119 |  | | | | |
-| BRA120 |  | | | | |
+| BRA108 | 32C | [Jockey and Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | Ch-TN | Y |
+| BRA109 | 36D | [Amante, Enamor and Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | Ch-TN | Y |
+| BRA110 | 34C | [Enamor, Jockey, Naidu Hall and Juliet](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | H-TS | Y |
+| BRA111 | 36B | [Zivame, Intimacy and Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | Ti-TN | Y |
+| BRA112 | 36C | [Jockey, Enamor and Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | S-TN | Y |
+| BRA113 | 32C | [Zudio, La brary and Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | C-TN | N |
+| BRA114 | 30B | [Jockey and Prithvi](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 25 | C-TN | N |
+| BRA115 | 30B | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | B-KA | Y |
+| BRA116 | 34C | [Clovia and Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | T-TN | Y |
+| BRA117 | 36D | [Zivame, Amante, Enamor, M&S and Victoria's Secret](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | Ch-TN | N |
+| BRA118 | 34C | [M&S](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 35 | H-TS | Y |
+| BRA119 | 32B | [Jockey, Enamor and Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | Ch-TN | Y |
+| BRA120 | 36A | [Zivame and VStar](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | P-K | Y |
+| BRA121 | 32A | [Naidu Hall and Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | E-TN | Y |
+| BRA122 | 38B | [M&S and LaSenza](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | Ch-TN | Y |
+| BRA123 | 36D | [Intimacy and Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | T-TN | Y |
+| BRA124 |  | | | | |
+| BRA125 |  | | | | |
+| BRA126 |  | | | | |
+| BRA127 |  | | | | |
+| BRA128 |  | | | | |
+| BRA129 |  | | | | |
+| BRA130 |  | | | | |
+| BRA131 |  | | | | |
+| BRA132 |  | | | | |
+| BRA133 |  | | | | |
+| BRA134 |  | | | | |
+| BRA135 |  | | | | |
+| BRA136 |  | | | | |
+| BRA137 |  | | | | |
+| BRA138 |  | | | | |
+| BRA139 |  | | | | |
+| BRA140 |  | | | | |
+| BRA141 |  | | | | |
+| BRA142 |  | | | | |
+| BRA143 |  | | | | |
+| BRA144 |  | | | | |
 
 # Credits
 Many Volunteers across India.
 
 # Last Updated
-23-Oct-2022
+26-Oct-2022
