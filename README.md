@@ -133,15 +133,15 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA121 | 32A | [Naidu Hall and Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | E-TN | Y |
 | BRA122 | 38B | [M&S and LaSenza](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 33 | Ch-TN | Y |
 | BRA123 | 36D | [Intimacy and Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | T-TN | Y |
-| BRA124 |  | | | | |
-| BRA125 |  | | | | |
-| BRA126 |  | | | | |
+| BRA124 | 36DD | [Triumph, Enamor and Amante](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | M-MH | Y |
+| BRA125 | 36H | [M&S](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 43 | O-TN | Y |
+| BRA126 | 34C | [Zivame, Triumph and Nakd](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | Ch-TN | N |
 | BRA127 |  | | | | |
 | BRA128 |  | | | | |
-| BRA129 |  | | | | |
-| BRA130 |  | | | | |
-| BRA131 |  | | | | |
-| BRA132 |  | | | | |
+| BRA129 | 38C | [Trylo, Libra, Jockey and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | H-TS | Y |
+| BRA130 | 36C | [Trylo, Triaction and Maiden Beauty](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | Ch-TN | N |
+| BRA131 | 34B | [Naidu Hall, Sonari, DaisyDee, Clovia, Zivame and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | Ch-TN | N |
+| BRA132 | 34C | [Jockey, M&S and H&M](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | P-MH | Y |
 | BRA133 |  | | | | |
 | BRA134 |  | | | | |
 | BRA135 |  | | | | |
@@ -154,9 +154,15 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA142 |  | | | | |
 | BRA143 |  | | | | |
 | BRA144 |  | | | | |
+| BRA145 |  | | | | |
+| BRA146 |  | | | | |
+| BRA147 |  | | | | |
+| BRA148 |  | | | | |
+| BRA149 |  | | | | |
+| BRA150 |  | | | | |
 
 # Credits
 Many Volunteers across India.
 
 # Last Updated
-26-Oct-2022
+27-Oct-2022
