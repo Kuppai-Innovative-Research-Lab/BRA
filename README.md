@@ -137,12 +137,12 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA125 | 36H | [M&S](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 43 | O-TN | Y |
 | BRA126 | 34C | [Zivame, Triumph and Nakd](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | Ch-TN | N |
 | BRA127 |  | | | | |
-| BRA128 |  | | | | |
+| BRA128 | 34B | [Jockey, H&M and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | M-MH | Y |
 | BRA129 | 38C | [Trylo, Libra, Jockey and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | H-TS | Y |
 | BRA130 | 36C | [Trylo, Triaction and Maiden Beauty](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | Ch-TN | N |
 | BRA131 | 34B | [Naidu Hall, Sonari, DaisyDee, Clovia, Zivame and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | Ch-TN | N |
 | BRA132 | 34C | [Jockey, M&S and H&M](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | P-MH | Y |
-| BRA133 |  | | | | |
+| BRA133 | 40B | [Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | C-TN | Y |
 | BRA134 |  | | | | |
 | BRA135 |  | | | | |
 | BRA136 |  | | | | |
