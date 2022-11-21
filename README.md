@@ -143,11 +143,11 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA131 | 34B | [Naidu Hall, Sonari, DaisyDee, Clovia, Zivame and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | Ch-TN | N |
 | BRA132 | 34C | [Jockey, M&S and H&M](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | P-MH | Y |
 | BRA133 | 40B | [Trylo](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 27 | C-TN | Y |
-| BRA134 |  | | | | |
-| BRA135 |  | | | | |
-| BRA136 |  | | | | |
-| BRA137 |  | | | | |
-| BRA138 |  | | | | |
+| BRA134 | 32A | [Jockey, Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 25 | P-K | N |
+| BRA135 | 34C | [Enamor, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | T-TN | Y |
+| BRA136 | 34C | [Enamor, Shyaway, Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 39 | M-MH | Y |
+| BRA137 | 40B | [H&M, Enamor, Amante, Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | Ch-TN | Y |
+| BRA138 | 36B | [Amante, Enamor, Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | H | Y |
 | BRA139 |  | | | | |
 | BRA140 |  | | | | |
 | BRA141 |  | | | | |
@@ -160,9 +160,19 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA148 |  | | | | |
 | BRA149 |  | | | | |
 | BRA150 |  | | | | |
+| BRA151 |  | | | | |
+| BRA152 |  | | | | |
+| BRA153 |  | | | | |
+| BRA154 |  | | | | |
+| BRA155 |  | | | | |
+| BRA156 |  | | | | |
+| BRA157 |  | | | | |
+| BRA158 |  | | | | |
+| BRA159 |  | | | | |
+| BRA160 |  | | | | |
 
 # Credits
 Many Volunteers across India.
 
 # Last Updated
-27-Oct-2022
+21-Nov-2022
