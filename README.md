@@ -1,11 +1,11 @@
-# Bra Research Academy - Indian Bra Usage Trends Survey  ![](https://img.shields.io/badge/Project-BRA-ff69b4.svg) ![](https://img.shields.io/badge/Project-CupCoin-ff69b4.svg) ![](https://img.shields.io/badge/Work-In_Progress-orange)
+# Bra Research Academy - Indian Bra Usage Trends Survey  ![](https://img.shields.io/badge/Project-BRA-ff69b4.svg) ![](https://img.shields.io/badge/Project-CupCoin-ff69b4.svg) ![](https://img.shields.io/badge/Phase_1-Closed-green)
 
-# Aim
+## Aim
 To understand the Bra Usage Trends in India.
 
-# Size Survey Report
+## Size Survey Report
 ![](https://img.shields.io/badge/Age-23_to_42-orange)
-![](https://img.shields.io/badge/Size-32_to_40-darkblue) ![](https://img.shields.io/badge/Size-B_to_HH-blue)  <br/>
+![](https://img.shields.io/badge/Bust_Size-32_to_40-darkblue) ![](https://img.shields.io/badge/Cup_Size-A_to_HH-blue)  <br/>
 Bra Size Dataset with varied age group, financial, social and, marital status.
 
 | ID | Size | Brands | Age | Location | Married? |
@@ -136,7 +136,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA124 | 36DD | [Triumph, Enamor and Amante](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 34 | M-MH | Y |
 | BRA125 | 36H | [M&S](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 43 | O-TN | Y |
 | BRA126 | 34C | [Zivame, Triumph and Nakd](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | Ch-TN | N |
-| BRA127 |  | | | | |
+| BRA127 | 36A | [Trylo, Mybra](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 28 | C-TN | Y |
 | BRA128 | 34B | [Jockey, H&M and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | M-MH | Y |
 | BRA129 | 38C | [Trylo, Libra, Jockey and Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | H-TS | Y |
 | BRA130 | 36C | [Trylo, Triaction and Maiden Beauty](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | Ch-TN | N |
@@ -148,31 +148,21 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA136 | 34C | [Enamor, Shyaway, Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 39 | M-MH | Y |
 | BRA137 | 40B | [H&M, Enamor, Amante, Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | Ch-TN | Y |
 | BRA138 | 36B | [Amante, Enamor, Clovia](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | H | Y |
-| BRA139 |  | | | | |
-| BRA140 |  | | | | |
-| BRA141 |  | | | | |
-| BRA142 |  | | | | |
+| BRA139 | 36B | [Jockey, Zivame, Mast and Harbour](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | G-As | Y |
+| BRA140 | 32B | [Enamor, DiasyDee, H&M, Jockey, Hunkemoller, Triumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 38 | B-KA | N |
+| BRA141 | 36D | [Trylo, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 35 | M-MH | Y |
+| BRA142 | 36D | [Triumph, M&S](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 38 | H-TS | Y |
 | BRA143 |  | | | | |
 | BRA144 |  | | | | |
 | BRA145 |  | | | | |
 | BRA146 |  | | | | |
 | BRA147 |  | | | | |
-| BRA148 |  | | | | |
-| BRA149 |  | | | | |
-| BRA150 |  | | | | |
-| BRA151 |  | | | | |
-| BRA152 |  | | | | |
-| BRA153 |  | | | | |
-| BRA154 |  | | | | |
-| BRA155 |  | | | | |
-| BRA156 |  | | | | |
-| BRA157 |  | | | | |
-| BRA158 |  | | | | |
-| BRA159 |  | | | | |
-| BRA160 |  | | | | |
+| BRA148 | 36G | [Hunkemoller, Zudio, Decathlon](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | M-MH | N |
+| BRA149 | 32B | [Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | S-TN | Y |
+| BRA150 | 36B | [Clovia, Naidu Hall, Juliet, VStar](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 40 | S-TN | Y |
 
-# Credits
+### Credits
 Many Volunteers across India.
 
-# Last Updated
-21-Nov-2022
+### Last Updated
+31-Dec-2022
