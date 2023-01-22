@@ -153,7 +153,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA141 | 36D | [Trylo, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 35 | M-MH | Y |
 | BRA142 | 36D | [Triumph, M&S](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 38 | H-TS | Y |
 | BRA143 |  | | | | |
-| BRA144 |  | | | | |
+| BRA144 | 38C | [Angelform](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 39 | C-TN | Y |
 | BRA145 |  | | | | |
 | BRA146 |  | | | | |
 | BRA147 |  | | | | |
@@ -165,4 +165,4 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 Many Volunteers across India.
 
 ### Last Updated
-31-Dec-2022
+22-Jan-2023 
