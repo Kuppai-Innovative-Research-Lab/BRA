@@ -1,4 +1,4 @@
-# Bra Research Academy - Indian Bra Usage Trends Survey  ![](https://img.shields.io/badge/Project-BRA-ff69b4.svg) ![](https://img.shields.io/badge/Project-CupCoin-ff69b4.svg) ![](https://img.shields.io/badge/Phase_1-Closed-green)
+# Bra Research Academy - Indian Bra Usage Trends Survey  ![](https://img.shields.io/badge/Project-BRA-ff69b4.svg) ![](https://img.shields.io/badge/Project-CupCoin-ff69b4.svg) ![](https://img.shields.io/badge/Phase_1-Open-green)
 
 ## Aim
 To understand the Bra Usage Trends in India.
@@ -152,7 +152,7 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA140 | 32B | [Enamor, DiasyDee, H&M, Jockey, Hunkemoller, Triumph](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 38 | B-KA | N |
 | BRA141 | 36D | [Trylo, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 35 | M-MH | Y |
 | BRA142 | 36D | [Triumph, M&S](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 38 | H-TS | Y |
-| BRA143 |  | | | | |
+| BRA143 | 34B | [Paris Beauty](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 24 | B-MP | N |
 | BRA144 | 38C | [Angelform](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 39 | C-TN | Y |
 | BRA145 |  | | | | |
 | BRA146 |  | | | | |
@@ -160,9 +160,18 @@ Bra Size Dataset with varied age group, financial, social and, marital status.
 | BRA148 | 36G | [Hunkemoller, Zudio, Decathlon](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 29 | M-MH | N |
 | BRA149 | 32B | [Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 26 | S-TN | Y |
 | BRA150 | 36B | [Clovia, Naidu Hall, Juliet, VStar](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 40 | S-TN | Y |
+| BRA159 | 34C | [Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 37 | B-KA  | Y |
+| BRA160 | 34B | [Jockey, Enamor, M&S](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 31 | K-WB  | Y |
+| BRA161 | 34B | [M&S, Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | Co-TN  | Y |
+| BRA162 | 36B | [Jockey, Zivame](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | K  | Y |
+| BRA163 | 34B | [Jockey, Zivame, Enamor](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 30 | B-KA  | Y |
+| BRA164 | 34B | [M&S, Jockey](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 38 |  | Y |
+| BRA165 | 36C | [Enamor, Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 23 | Ch-TN | N |
+| BRA167 | 32B | [Jockey, Max, Intimacy](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 36 | Ch-TN | Y |
+| BRA168 | 38D | [Jockey, Naidu Hall](https://kuppai-innovative-research-lab.github.io/BRA/Brands) | 32 | Ch-TN | N |
 
 ### Credits
 Many Volunteers across India.
 
 ### Last Updated
-22-Jan-2023 
+10-Oct-2023 
